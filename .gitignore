@@ -1,0 +1,24 @@
+# Build outputs
+/target/
+/bin/
+/out/
+/doc/
+
+# IDE settings
+.idea/
+*.iml
+/.classpath
+/.project
+/.settings/
+.vscode/
+
+# Java artifacts
+*.class
+dependency-reduced-pom.xml
+
+# Logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
