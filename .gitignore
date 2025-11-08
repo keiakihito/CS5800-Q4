@@ -3,6 +3,8 @@
 /bin/
 /out/
 /doc/
+pom.xml
+src/test/
 
 # IDE settings
 .idea/
